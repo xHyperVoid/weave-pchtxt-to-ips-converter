@@ -102,7 +102,6 @@ For the best experience, organize your input files using the standard Atmosphèr
 ```
 
 -----
------
 
 ## "Where do I get mods/patches?"
 
