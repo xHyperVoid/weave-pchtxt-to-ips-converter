@@ -104,12 +104,12 @@ For the best experience, organize your input files using the standard Atmosphèr
 -----
 -----
 
-## "Where do I get mods?"
+## "Where do I get mods/patches?"
 
 If you downloaded this tool without actually having any patches to convert, I honestly don't know what to tell you.
 
   * **[Fl4sh9174's Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)** Has an amazing collection for 60FPS and ultrawide patches.
-  * **For everything else:** **[Click link](https://letmegooglethat.com/?q=pchtxt+ips+switch+mods)**
+  * **For everything else:** **[link](https://letmegooglethat.com/?q=XXXX+switch+game+pchtxt)**
 -----
 
 ## Supported Syntax
