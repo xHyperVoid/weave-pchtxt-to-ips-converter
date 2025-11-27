@@ -28,7 +28,7 @@ It replaces manual conversion with a rapid, batch-capable workflow that handles 
     * [Download Python](https://www.python.org/downloads/)
 
 ### Setup
-1.  Download the latest release.
+1.  Click **<> Code** and select **Download ZIP** (or clone the repository).
 2.  Extract `weave-script.py` and `WEAVE.bat` into the root folder where you keep your Switch mods.
 
 ---
@@ -101,6 +101,15 @@ For the best experience, organize your input files using the standard Atmosphèr
             └── 0100000000010000.ips
 ```
 
+-----
+-----
+
+## "Where do I get mods?"
+
+If you downloaded this tool without actually having any patches to convert, I honestly don't know what to tell you.
+
+  * **[Fl4sh9174's Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)** Has an amazing collection for 60FPS and ultrawide patches.
+  * **For everything else:** **[Click link](https://letmegooglethat.com/?q=pchtxt+ips+switch+mods)**
 -----
 
 ## Supported Syntax
